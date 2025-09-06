@@ -1,0 +1,5 @@
+grade,income_bracket,default_count
+NULL,Low,356
+NULL,"Very Low",440
+NULL,Medium,16
+NULL,High,3

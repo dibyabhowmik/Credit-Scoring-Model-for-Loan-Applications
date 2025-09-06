@@ -1,0 +1,13 @@
+employment_type,total_loans,defaults,default_rate_percent
+entrepreneur,1487,55,3.70
+unemployed,1303,30,2.30
+self-employed,1579,33,2.09
+blue-collar,9732,201,2.07
+services,4154,75,1.81
+housemaid,1240,22,1.77
+management,9458,164,1.73
+technician,7597,130,1.71
+admin.,5171,74,1.43
+retired,2264,26,1.15
+unknown,288,2,0.69
+student,938,3,0.32
